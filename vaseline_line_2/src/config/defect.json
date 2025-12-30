@@ -1,0 +1,7 @@
+{
+    "defects": {
+        "Coding_Error": true,
+        "Foreign_particals_after_filling": true,
+        "Foreign_particals_before_filling": true
+    }
+}

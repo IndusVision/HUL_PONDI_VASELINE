@@ -1,0 +1,132 @@
+{    
+    "Japan-80gm":  
+    {"camera_config_After_filling": "C:/Users/pc/Desktop/Config_Files/Line_1_fp_after_filling/100ml/Line_1_fp_after_filling_100ml.Config",
+    "camera_config_before_filling": "C:/Users/pc/Desktop/Config_Files/Line1_fp_before_filling/line_1_fp_before_filling_100ml.Config",
+    "camera_config_ocr": "C:/Users/pc/Downloads/nea_korea_100ml_02_june.Config",
+    "camera_serial_number": "0540035320047",
+    "default_conf": 0.02,
+    "iou_thersh": 0.55,
+    "ocr_count": 4,
+    "start_offset": 5,
+    "bit_offset": 2,
+    "ocr_weights": "C:/Users/pc/Desktop/CODE_BASE/models/mixed_ocr_vaseline_21052025.pt",
+    "product_id": 39
+},
+
+"Japan-200gm": 
+    {"camera_config_After_filling": "C:/Users/pc/Desktop/Config_Files/Line_1_fp_after_filling/250ml/line_1_fp_after_filling_250ml.Config",
+    "camera_config_before_filling": "C:/Users/pc/Desktop/Config_Files/Line1_fp_before_filling/Line_1_fp_before_filling_250ml.Config",
+    "camera_config_ocr": "C:/Users/pc/Downloads/nea_korea_100ml_02_june.Config",
+    "camera_serial_number": "0540035320047",
+    "default_conf": 0.02,
+    "iou_thersh": 0.55,
+    "ocr_count": 4,
+    "start_offset": 5,
+    "bit_offset": 2,
+    "ocr_weights": "C:/Users/pc/Desktop/CODE_BASE/models/mixed_ocr_vaseline_21052025.pt",
+    "product_id": 39
+},
+
+
+"Europe-100ml": 
+    {"camera_config_After_filling": "C:/Users/pc/Desktop/Config_Files/Line_1_fp_after_filling/100ml/Line_1_fp_after_filling_100ml.Config",
+    "camera_config_before_filling": "C:/Users/pc/Desktop/Config_Files/Line1_fp_before_filling/line_1_fp_before_filling_100ml.Config",
+    "camera_config_ocr": "C:/Users/pc/Downloads/nea_korea_100ml_02_june.Config",
+    "camera_serial_number": "0540035320047",
+    "default_conf": 0.02,
+    "iou_thersh": 0.55,
+    "ocr_count": 4,
+    "start_offset": 5,
+    "bit_offset": 2,
+    "ocr_weights": "C:/Users/pc/Desktop/CODE_BASE/models/mixed_ocr_vaseline_21052025.pt",
+    "product_id": 39
+},
+
+"Europe-250ml": 
+    {"camera_config_After_filling": "C:/Users/pc/Desktop/Config_Files/Line_1_fp_after_filling/250ml/line_1_fp_after_filling_250ml.Config",
+    "camera_config_before_filling": "C:/Users/pc/Desktop/Config_Files/Line1_fp_before_filling/Line_1_fp_before_filling_250ml.Config",
+    "camera_config_ocr": "C:/Users/pc/Downloads/nea_korea_100ml_02_june.Config",
+    "camera_serial_number": "0540035320047",
+    "default_conf": 0.02,
+    "iou_thersh": 0.55,
+    "ocr_count": 4,
+    "start_offset": 5,
+    "bit_offset": 2,
+    "ocr_weights": "C:/Users/pc/Desktop/CODE_BASE/models/mixed_ocr_vaseline_21052025.pt",
+    "product_id": 39
+},
+
+
+"Singapore-100ml": 
+    {"camera_config_After_filling": "C:/Users/pc/Desktop/Config_Files/Line_1_fp_after_filling/100ml/Line_1_fp_after_filling_100ml.Config",
+    "camera_config_before_filling": "C:/Users/pc/Desktop/Config_Files/Line1_fp_before_filling/line_1_fp_before_filling_100ml.Config",
+    "camera_config_ocr": "C:/Users/pc/Downloads/nea_korea_100ml_02_june.Config",
+    "camera_serial_number": "0540035320047",
+    "default_conf": 0.02,
+    "iou_thersh": 0.55,
+    "ocr_count": 4,
+    "start_offset": 5,
+    "bit_offset": 2,
+    "ocr_weights": "C:/Users/pc/Desktop/CODE_BASE/models/mixed_ocr_vaseline_21052025.pt",
+    "product_id": 39
+},
+
+"Singapore-250ml": 
+    {"camera_config_After_filling":  "C:/Users/pc/Desktop/Config_Files/Line_1_fp_after_filling/250ml/line_1_fp_after_filling_250ml.Config",
+    "camera_config_before_filling": "C:/Users/pc/Desktop/Config_Files/Line1_fp_before_filling/Line_1_fp_before_filling_250ml.Config",
+    "camera_config_ocr": "C:/Users/pc/Downloads/nea_korea_100ml_02_june.Config",
+    "camera_serial_number": "0540035320047",
+    "default_conf": 0.02,
+    "iou_thersh": 0.55,
+    "ocr_count": 4,
+    "start_offset": 5,
+    "bit_offset": 2,
+    "ocr_weights": "C:/Users/pc/Desktop/CODE_BASE/models/mixed_ocr_vaseline_21052025.pt",
+    "product_id": 39
+},
+
+"NEA Hongkong-100ml": 
+    {"camera_config_After_filling": "C:/Users/pc/Desktop/Config_Files/Line_1_fp_after_filling/100ml/Line_1_fp_after_filling_100ml.Config",
+    "camera_config_before_filling": "C:/Users/pc/Desktop/Config_Files/Line1_fp_before_filling/line_1_fp_before_filling_100ml.Config",
+    "camera_config_ocr": "C:/Users/pc/Downloads/nea_korea_100ml_02_june.Config",
+    "camera_serial_number": "0540035320047",
+    "default_conf": 0.02,
+    "iou_thersh": 0.55,
+    "ocr_count": 4,
+    "start_offset": 5,
+    "bit_offset": 2,
+    "ocr_weights": "C:/Users/pc/Desktop/CODE_BASE/models/mixed_ocr_vaseline_21052025.pt",
+    "product_id": 39
+},
+
+"NEA Korea-100ml": 
+    {"camera_config_After_filling": "C:/Users/pc/Desktop/Config_Files/Line_1_fp_after_filling/100ml/Line_1_fp_after_filling_100ml.Config",
+    "camera_config_before_filling": "C:/Users/pc/Desktop/Config_Files/Line1_fp_before_filling/line_1_fp_before_filling_100ml.Config",
+    "camera_config_ocr": "C:/Users/pc/Downloads/nea_korea_100ml_02_june.Config",
+    "camera_serial_number": "0540035320047",
+    "default_conf": 0.02,
+    "iou_thersh": 0.55,
+    "ocr_count": 4,
+    "start_offset": 5,
+    "bit_offset": 2,
+    "ocr_weights": "C:/Users/pc/Desktop/CODE_BASE/models/mixed_ocr_vaseline_21052025.pt",
+    "product_id": 39
+},
+
+"Australia-250ml": 
+    {"camera_config_After_filling":  "C:/Users/pc/Desktop/Config_Files/Line_1_fp_after_filling/250ml/line_1_fp_after_filling_250ml.Config",
+    "camera_config_before_filling": "C:/Users/pc/Desktop/Config_Files/Line1_fp_before_filling/Line_1_fp_before_filling_250ml.Config",
+    "camera_config_ocr": "C:/Users/pc/Downloads/nea_korea_100ml_02_june.Config",
+    "camera_serial_number": "0540035320047",
+    "default_conf": 0.02,
+    "iou_thersh": 0.55,
+    "ocr_count": 4,
+    "start_offset": 5,
+    "bit_offset": 2,
+    "ocr_weights": "C:/Users/pc/Desktop/CODE_BASE/models/mixed_ocr_vaseline_21052025.pt",
+    "product_id": 39
+}
+
+}
+
+

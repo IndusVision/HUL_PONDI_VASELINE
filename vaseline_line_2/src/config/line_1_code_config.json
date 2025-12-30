@@ -1,0 +1,13 @@
+{
+    "camera_config_After_filling": "C:/Users/pc/Desktop/config_file_dilkash/after filling (26-05).Config",
+    "camera_config_before_filling": "C:/Users/pc/Desktop/config_file_dilkash/before filling 250 ml (26-05).Config",
+    "camera_config_ocr": "C:/Users/pc/Downloads/nea_korea_100ml_02_june.Config",
+    "camera_serial_number": "0540035320047",
+    "default_conf": 0.02,
+    "iou_thersh": 0.55,
+    "ocr_count": 13,
+    "start_offset": 5,
+    "bit_offset": 2,
+    "ocr_weights": "C:/Users/pc/Desktop/CODE_BASE/models/mixed_ocr_vaseline_21052025.pt",
+    "product_id": "37"
+}

@@ -1,0 +1,53 @@
+{
+    "scripts": {
+        "1": {
+            "pythonPath": "C:/Users/pc/miniconda3/envs/yolo/python.exe",
+            "scriptPath": "C:/codebase/vaseline_line_2/spawn_processs_line2.py"
+        },
+        "2": {
+            "pythonPath": "C:/Users/pc/miniconda3/envs/yolo/python.exe",
+            "scriptPath": "C:/codebase/vaseline_line_2/spawn_processs_line2.py"
+        },
+
+        "3": {
+            "pythonPath": "C:/Users/pc/miniconda3/envs/yolo/python.exe",
+            "scriptPath": "C:/codebase/vaseline_line_2/spawn_processs_line2.py"
+        },
+
+        "4": {
+            "pythonPath": "C:/Users/pc/miniconda3/envs/yolo/python.exe",
+            "scriptPath": "C:/codebase/vaseline_line_2/spawn_processs_line2.py"
+        },
+
+        "5": {
+            "pythonPath": "C:/Users/pc/miniconda3/envs/yolo/python.exe",
+            "scriptPath": "C:/codebase/vaseline_line_2/spawn_processs_line2.py"
+        },
+
+        "6": {
+            "pythonPath": "C:/Users/pc/miniconda3/envs/yolo/python.exe",
+            "scriptPath": "C:/codebase/vaseline_line_2/spawn_processs_line2.py"
+        },
+        "7": {
+            "pythonPath": "C:/Users/pc/miniconda3/envs/yolo/python.exe",
+            "scriptPath": "C:/codebase/vaseline_line_2/spawn_processs_line2.py"
+    },
+         "8": {
+            "pythonPath": "C:/Users/pc/miniconda3/envs/yolo/python.exe",
+            "scriptPath": "C:/codebase/vaseline_line_2/spawn_processs_line2.py"
+    },
+        "9": {
+            "pythonPath": "C:/Users/pc/miniconda3/envs/yolo/python.exe",
+            "scriptPath": "C:/codebase/vaseline_line_2/spawn_processs_line2.py"
+    },
+        "10": {
+            "pythonPath": "C:/Users/pc/miniconda3/envs/yolo/python.exe",
+            "scriptPath": "C:/codebase/vaseline_line_2/spawn_processs_line2.py"
+    },
+        "11": {
+            "pythonPath": "C:/Users/pc/miniconda3/envs/yolo/python.exe",
+            "scriptPath": "C:/codebase/vaseline_line_2/spawn_processs_line2.py"
+    }
+    
+    }
+    }        

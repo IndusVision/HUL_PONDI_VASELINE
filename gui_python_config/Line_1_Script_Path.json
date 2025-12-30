@@ -1,0 +1,40 @@
+{
+    "scripts": {
+        "1": {
+            "pythonPath": "C:/Users/pc/miniconda3/envs/yolo/python.exe",
+            "scriptPath": "C:/codebase/vaseline_line_1/spawn_process_line1.py"
+        },
+        "2": {
+            "pythonPath": "C:/Users/pc/miniconda3/envs/yolo/python.exe",
+            "scriptPath": "C:/codebase/vaseline_line_1/spawn_process_line1.py"
+        },
+        "3": {
+            "pythonPath": "C:/Users/pc/miniconda3/envs/yolo/python.exe",
+            "scriptPath": "C:/codebase/vaseline_line_1/spawn_process_line1.py"
+        },
+        "4": {
+            "pythonPath": "C:/Users/pc/miniconda3/envs/yolo/python.exe",
+            "scriptPath": "C:/codebase/vaseline_line_1/spawn_process_line1.py"
+        },
+        "5": {
+            "pythonPath": "C:/Users/pc/miniconda3/envs/yolo/python.exe",
+            "scriptPath": "C:/codebase/vaseline_line_1/spawn_process_line1.py"
+        },
+        "6": {
+            "pythonPath": "C:/Users/pc/miniconda3/envs/yolo/python.exe",
+            "scriptPath": "C:/codebase/vaseline_line_1/spawn_process_line1.py"
+        },
+        "7": {
+            "pythonPath": "C:/Users/pc/miniconda3/envs/yolo/python.exe",
+            "scriptPath": "C:/codebase/vaseline_line_1/spawn_process_line1.py"
+        },
+        "8": {
+            "pythonPath": "C:/Users/pc/miniconda3/envs/yolo/python.exe",
+            "scriptPath": "C:/codebase/vaseline_line_1/spawn_process_line1.py"
+        },
+        "9": {
+            "pythonPath": "C:/Users/pc/miniconda3/envs/yolo/python.exe",
+            "scriptPath": "C:/codebase/vaseline_line_1/spawn_process_line1.py"
+        }
+    }
+}

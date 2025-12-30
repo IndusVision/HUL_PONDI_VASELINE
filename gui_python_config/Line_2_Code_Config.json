@@ -1,0 +1,17 @@
+{
+    "camera_config_After_filling": "C:\\codebase\\vaseline_line_2\\Config_Files\\Line_2_After_filling\\line_2_af_10ml__23_12_25.Config",
+    "camera_config_before_filling": "C:\\codebase\\vaseline_line_2\\Config_Files\\Line_2_before_filling\\line-2_50_ml all sku's.Config",
+    "camera_config_ocr": "C:\\codebase\\vaseline_line_2\\Config_Files\\Line_2_OCR\\line_2_Japan_80gm.Config",
+    "camera_serial_number": "054121020057",
+    "height_threshold": 1680,
+    "default_conf": 0.5,
+    "iou_thersh": 0.75,
+    "ocr_count": 12,
+    "start_offset": 1,
+    "bit_offset": 3,
+    "recipe_start_offset": 0,
+    "recipe_bit_offset": 4,
+    "ocr_weights": "C:\\codebase\\vaseline_line_2\\Models\\code_on_cap_best.pt",
+    "product_id": "35",
+    "sku_id": "NEA_Korea_100ml"
+}

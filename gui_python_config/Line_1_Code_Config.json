@@ -1,0 +1,16 @@
+{
+    "camera_config_After_filling": "C:\\codebase\\vaseline_line_1\\Config_Files\\Line_1_fp_after_filling\\250ml\\line_1_fp_after_filling_250ml.Config",
+    "camera_config_before_filling": "C:\\codebase\\vaseline_line_1\\Config_Files\\Line1_fp_before_filling\\Line_1_fp_before_filling_250ml.Config",
+    "camera_config_ocr": "C:\\codebase\\vaseline_line_1\\Config_Files\\Line1_OCR\\Singapore_250ml.Config",
+    "camera_serial_number": "054003520047",
+    "default_conf": 0.5,
+    "iou_thersh": 0.75,
+    "ocr_count": 12,
+    "start_offset": 1,
+    "bit_offset": 0,
+    "recipe_start_offset": 0,
+    "recipe_bit_offset": 2,
+    "ocr_weights": "C:\\codebase\\Models\\code_on_cap_best.pt",
+    "product_id": "36",
+    "sku_id": "Singapore_250ml"
+}

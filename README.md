@@ -1,33 +1,33 @@
 ![alt text](logo.png)
 # IndusVision Codebase
-Welcome to the **IndusVision Codebase Repository**!  
+Welcome to the **HUL_PONDI_VASELINE Codebase Repository**!  
 This repository contains the core source code, modules, and essential components.
 
 ---
 
 ## 🌟 Introduction
 
-This repository serves as the **single source of truth** for the development and maintenance of IndusVision’s codebase, ensuring a centralized, organized, and collaborative development environment.
+This repository serves as the **single source of truth** for the development and maintenance of Vaseline’s codebase, ensuring a centralized, organized, and collaborative development environment.
 
 ---
 
 ## 🏗️ Repository Structure
 
 ```
-📁 indusvision-codebase/                    # Parent Directory
-    📁 project-name/                        # Project Directory
-        📁 src/                             # Source code for core modules
-        📁 docs/                            # Documentation and architecture diagrams
-        📁 scripts/                         # Automation and utility scripts
-        📁 tests/                           # Unit and integration tests
-        📄 README.md                        # Project introduction and setup guide
+📁 HUL_PONDI_VASELINE/                         # Parent Directory
+    📁 vaseline_line_1/                        # Project Directory
+        📁 src/                                # Source code for core modules
+        📁 docs/                               # Documentation and architecture diagrams
+        📁 spawn_process_line_1/               # spawn process for starting of all codes 
+        📁 vaseline_stop_code/                 # stop code for stopping of the cod3
 
-    📁 project-name/                        # Project Directory
-        📁 src/                             # Source code for core modules
-        📁 docs/                            # Documentation and architecture diagrams
-        📁 scripts/                         # Automation and utility scripts
-        📁 tests/                           # Unit and integration tests
-        📄 README.md                        # Project introduction and setup guide
+     📁 vaseline_line_2/                       # Project Directory
+        📁 src/                                # Source code for core modules
+        📁 docs/                               # Documentation and architecture diagrams
+        📁 spawn_process_line_2/               # spawn process for starting of all codes 
+        📁 vaseline_stop_code/                 # stop code for stopping of the cod3
+
+     📁 Config_Files/                          # Config files for respective variants
     .
     .
     .
@@ -40,8 +40,8 @@ This repository serves as the **single source of truth** for the development and
 ## ⚙️ Setup & Installation
 **Clone the repository:**
    ```bash
-   git clone https://github.com/IndusVision/indusvision-codebase.git
-   cd indusvision-codebase
+   git clone https://github.com/IndusVision/HUL_PONDI_VASELINE.git
+   cd HUL_PONDI_VASELINE
    ```
 ---
 
@@ -58,4 +58,5 @@ To contribute:
 Special thanks to the entire **IndusVision** team for their continuous effort in making all the project better every day.
 
 ---
+
 
